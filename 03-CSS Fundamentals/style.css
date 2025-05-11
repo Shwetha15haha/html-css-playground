@@ -45,6 +45,7 @@ li {
   font-size: 15px;
 } */
 
+/* id selector */
 #copyright {
   font-size: 15px;
 }
@@ -54,7 +55,18 @@ li {
   font-style: italic;
 } */
 
+/* id selector */
 #author {
   font-style: italic;
   font-size: 18px;
+}
+
+/* class selector */
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.related {
+  list-style: none;
 }
