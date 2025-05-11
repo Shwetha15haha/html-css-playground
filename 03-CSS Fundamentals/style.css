@@ -41,11 +41,20 @@ li {
 }
 
 /* descendant selector */
-footer p {
+/* footer p {
+  font-size: 15px;
+} */
+
+#copyright {
   font-size: 15px;
 }
 
 /* nested descendant selector */
-article header p {
+/* article header p {
   font-style: italic;
+} */
+
+#author {
+  font-style: italic;
+  font-size: 18px;
 }
