@@ -116,3 +116,10 @@ li:nth-child(2) {
 /* article p:first-child {
   font-weight: bold;
 } */
+
+/* Styling links */
+/* This targets a element that has href attr*/
+a:link {
+  color: #b4230d;
+  text-decoration: none;
+}
