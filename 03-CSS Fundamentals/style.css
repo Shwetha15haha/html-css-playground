@@ -138,3 +138,32 @@ a:active {
   background-color: black;
   font-style: italic;
 }
+
+/* resolving conflicts */
+
+/*  priority 2
+#copyright {
+  color: green;
+}
+
+priority 3
+.copyright {
+  color: red;
+}
+
+priority 3
+.text {
+  color: yellow;
+}
+
+in priority 3 - the last one will be applied
+
+priority 4
+footer p {
+  color: blue;
+}
+
+priority 1
+footer p {
+  color: pink !important;
+} */
