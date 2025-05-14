@@ -1,5 +1,17 @@
+/* Universal selectore : Least priority */
+/* * {
+  border-top: 5px solid #b4230d;
+} */
+
+body {
+  font-family: sans-serif;
+  color: #444;
+
+  /* border-top: 10px solid #b4230d; not get inherited */
+}
+
 /* Combining selector */
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -7,7 +19,7 @@ p,
 li {
   font-family: sans-serif;
   color: #444;
-}
+} */
 
 h1,
 h2,
